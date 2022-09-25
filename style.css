@@ -1,0 +1,33 @@
+a {
+  color:blue;
+  text-decoration: none;
+}
+#active{
+  color:blue;
+}
+.saw{
+  color:blue;
+}
+h1 { font-size: 500%;
+  text-align: center;
+  border-bottom:3px solid blue;
+  margin:0;
+  padding:20px;
+}
+ol{
+  border-right: 3px solid blue;
+  width:170px;
+  margin:0;
+  padding:30px;
+}
+#grid{
+  display:grid;
+  grid-template-columns: 200px 1fr;
+}
+#grid #article{
+  padding-left:40px;
+}
+
+.music{ margin:0;
+        
+}
